@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "9bfdf44b08889025d527c6bb42e140956fddbdad4611455b976011bbf9ec61b5"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "82b70b3ca30f3eedea12049a414cf30baae722c79128b17789a93b6906dc3ca5"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "09faca3cde7ffda49fcd3d4fc4f4a3d4f8774463170dfee83d6472f64bc84016"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "bb1ce36de0df1b27894c1270d6d8bdb6f34b77eb26ed6cac19ef4bd80ae41cd8"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "81c71ff5ca88356316034fc5d37ff10e446db5ee70884424b0ef2007fb3ade47"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "de01c608faa6b0fa0f7355c32c56d8bb4f579822d250d644181485c3b0ac4e1a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "29158cb1ee7416cc107ee380d8c5d265dd7ab86a54cf2df8f83252d975d405a2"
+metafile = true
+
+[[files]]
+file = "mods/couplings.pw.toml"
+hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "f3094b99335cf26c368294878ae60312122a30ead29fea67b86095b75b15b4e8"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view-fabric.pw.toml"
+hash = "d9199e3e1d0c431a4fac4b7232718cf2b9fdc17d231471c351dd9090f16c551a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "2e5c94e4f1bdfe8c9da4e987e9b3639599591575b3dc91ed0bb120adcee0ee85"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "f6a1e60bb1331e6ec936e743d86234fa68078fdf7b023b267431ed1a550df102"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "cbdd091647cf5e19fa57723001719e45b7eee9988567d5945a69986943370189"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "103f9e1bc20ebbef5a496b73572aaa9a24066831fc61fe3a28eedea3602153f9"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "eb9c6422a8e573b51eb656d62a08d4161bc94292fa491c99616c2362a09fdc67"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "80f2cd7cb60ed88d20d70b92b162362f2e8830d4d46085e31660ee9a3d4cf7e1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "7a6d4d98863b05737dc5ff0ef2b59132483c84342aaa3e4d5eae45544bc6759d"
+metafile = true

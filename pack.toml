@@ -1,0 +1,13 @@
+name = "Estous"
+author = "dots"
+version = "0.3.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dec2c23e70c2b1066810472b974dcc8539455cf8716920c99e0d499ea5e70475"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.20.1"
