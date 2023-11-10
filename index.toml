@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "ff786550ebc945232c072bd3011919ab9fef52baf819705309d67c961332b604"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b6b6e112dcd5a4c4db942e88c3ef5f89e722f51f82beae2a1e0fa792ad385946"
 metafile = true
@@ -21,6 +26,11 @@ hash = "bb1ce36de0df1b27894c1270d6d8bdb6f34b77eb26ed6cac19ef4bd80ae41cd8"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "8755b3dbfda384504c0254e63d8ef683d9e34d72bab8d77d4b8fd785d9930220"
 metafile = true
@@ -28,6 +38,16 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "4f2fc718ba43146d6c909d2d25da09e7d3d7fccbcc6225b488ff5f533d5149c2"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
 metafile = true
 
 [[files]]
@@ -51,8 +71,48 @@ hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "a700b9ee3a43f831e4d71c1c6cd816813975b61ebdb962297e95d71026d1e056"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "8361392d5f517beb700ee5367c05c81448dba6d2becae59e37dd2720157d38c9"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "80298b747a1905798731066e4d8344aa2bb3367fb8b7d7492780cac46e9047f7"
+metafile = true
+
+[[files]]
+file = "mods/ctov-create-structures.pw.toml"
+hash = "ced88c2b170469d097b3fad5204b5fe29445f99d639d91afbd07f1d0e424b424"
+metafile = true
+
+[[files]]
+file = "mods/ctov-croptopia-compat.pw.toml"
+hash = "6f513e0bcbb95bc89206488ded18c1d1491e43fc35ceca97caaa3c6e1b8b86f2"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view-fabric.pw.toml"
 hash = "d9199e3e1d0c431a4fac4b7232718cf2b9fdc17d231471c351dd9090f16c551a"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "9ec8d9ecfedbd3cc30dc19b91f37a540ff9340debf035cbb81a7103f65e086f1"
 metafile = true
 
 [[files]]
@@ -63,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
 metafile = true
 
 [[files]]
@@ -83,6 +148,21 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "637453f471b9b9a07c0d455eacbaa63509bd8066ca14f15e2225328bb18ca201"
 metafile = true
 
 [[files]]
