@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "b56b27f7d1af999ce2457ded966a11aee0f19727ab9d3dfc1117c7cda539dc5b"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff786550ebc945232c072bd3011919ab9fef52baf819705309d67c961332b604"
 metafile = true
@@ -133,16 +137,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
 metafile = true
 
 [[files]]
