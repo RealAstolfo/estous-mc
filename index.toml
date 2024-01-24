@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "b56b27f7d1af999ce2457ded966a11aee0f19727ab9d3dfc1117c7cda539dc5b"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "ae7cf3dc5ae9d26079599ca6d2fe6e5c790ec84e003aa4ce6fc33b2230d7d632"
+hash = "ff786550ebc945232c072bd3011919ab9fef52baf819705309d67c961332b604"
 metafile = true
 
 [[files]]
@@ -16,22 +12,22 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+hash = "82b70b3ca30f3eedea12049a414cf30baae722c79128b17789a93b6906dc3ca5"
 metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+hash = "09faca3cde7ffda49fcd3d4fc4f4a3d4f8774463170dfee83d6472f64bc84016"
 metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
+hash = "bb1ce36de0df1b27894c1270d6d8bdb6f34b77eb26ed6cac19ef4bd80ae41cd8"
 metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "6f3c94c24b727270e851fb923b5347d44b5a401f56c11c8e00beffe099986968"
+hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
 metafile = true
 
 [[files]]
@@ -46,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
+hash = "4f2fc718ba43146d6c909d2d25da09e7d3d7fccbcc6225b488ff5f533d5149c2"
 metafile = true
 
 [[files]]
@@ -56,17 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
 metafile = true
 
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
-hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
@@ -91,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
+hash = "8361392d5f517beb700ee5367c05c81448dba6d2becae59e37dd2720157d38c9"
 metafile = true
 
 [[files]]
@@ -126,17 +117,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "085b07d21501fe266e05269f068dee356ca60e2400c3780819d2e5e496f38fff"
+hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
 metafile = true
 
 [[files]]
@@ -166,25 +157,30 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
+hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
+hash = "637453f471b9b9a07c0d455eacbaa63509bd8066ca14f15e2225328bb18ca201"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "297fa1e8d45f324b6e7bb8154bfa604402c2f275d6e4294e465e398c060fcde2"
+hash = "8394f3320b60593b03371c8c4278018e6042b0065437cc217898286699ff8a52"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f3f813f6475844b7a80be440f357f0b965f692fc0e63d9382766e6c456c5de84"
+hash = "80f2cd7cb60ed88d20d70b92b162362f2e8830d4d46085e31660ee9a3d4cf7e1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "bc9185b2c1ed3389b68455f4540ec57a676906e523675f323a148d1ebdb18ef8"
 metafile = true
 
 [[files]]
 file = "mods/terrestria.pw.toml"
-hash = "d88f78d490fbfe15149a92f5aa1c66f3349cbb35c9599cbf9c4bba88e5ffb53a"
+hash = "7a6d4d98863b05737dc5ff0ef2b59132483c84342aaa3e4d5eae45544bc6759d"
 metafile = true
